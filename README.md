@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ### Running the Web-App Locally
 
 ```sh
-# navigate to the Spectrum folder 
+# navigate to the muse folder 
 cd Spectrum
 
 # run app.py
