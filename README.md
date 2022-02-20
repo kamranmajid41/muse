@@ -6,6 +6,9 @@
 # clone the repo
 git clone https://github.com/kamranmajid41/muse
 
+# navigate to muse 
+cd muse 
+
 # install requirements
 pip install -r requirements.txt
 ```
@@ -13,8 +16,8 @@ pip install -r requirements.txt
 ### Running the Web-App Locally
 
 ```sh
-# navigate to the muse folder 
-cd muse
+# navigate to the WebApp folder 
+cd WebApp
 
 # run app.py
 python3 app.py
