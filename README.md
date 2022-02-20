@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ```sh
 # navigate to the muse folder 
-cd Spectrum
+cd muse
 
 # run app.py
 python3 app.py
